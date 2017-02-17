@@ -1,0 +1,7 @@
+Input Variables,Data Sources
+D&B #,D&B
+Financial Score (FPCT),D&B
+Zip Code,D&B
+Adverse Filing Count (LIENS + SUITS + JUDGMNTS + UCCFILNG),D&B
+Population Density,EASI
+Mediuam Age,EASI

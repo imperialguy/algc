@@ -1,0 +1,7 @@
+ratio_upper_cap,ratio_lower_cap,lower_bound_ratio,upper_bound_ratio,lower_bound_delta,upper_bound_delta
+1,0.9,0.8,1.2,0,0
+0.9,0.8,0.8,1.2,0,0
+0.8,0.7,0.8,1.2,0,0
+0.7,0.6,0.8,1.2,0,-0.05
+0.6,0.5,0.8,1.25,0,-0.05
+0.5,0,0.8,1.3,,
