@@ -1,0 +1,1257 @@
+sic,sic_2,sic_class,sic_industry
+111,1,A,"Agriculture, Forestry, And Fishing"
+112,1,A,"Agriculture, Forestry, And Fishing"
+115,1,A,"Agriculture, Forestry, And Fishing"
+116,1,A,"Agriculture, Forestry, And Fishing"
+119,1,A,"Agriculture, Forestry, And Fishing"
+131,1,A,"Agriculture, Forestry, And Fishing"
+132,1,A,"Agriculture, Forestry, And Fishing"
+133,1,A,"Agriculture, Forestry, And Fishing"
+134,1,A,"Agriculture, Forestry, And Fishing"
+139,1,A,"Agriculture, Forestry, And Fishing"
+161,1,A,"Agriculture, Forestry, And Fishing"
+171,1,A,"Agriculture, Forestry, And Fishing"
+172,1,A,"Agriculture, Forestry, And Fishing"
+173,1,A,"Agriculture, Forestry, And Fishing"
+174,1,A,"Agriculture, Forestry, And Fishing"
+175,1,A,"Agriculture, Forestry, And Fishing"
+179,1,A,"Agriculture, Forestry, And Fishing"
+181,1,A,"Agriculture, Forestry, And Fishing"
+182,1,A,"Agriculture, Forestry, And Fishing"
+189,1,A,"Agriculture, Forestry, And Fishing"
+191,1,A,"Agriculture, Forestry, And Fishing"
+211,2,A,"Agriculture, Forestry, And Fishing"
+212,2,A,"Agriculture, Forestry, And Fishing"
+213,2,A,"Agriculture, Forestry, And Fishing"
+214,2,A,"Agriculture, Forestry, And Fishing"
+219,2,A,"Agriculture, Forestry, And Fishing"
+241,2,A,"Agriculture, Forestry, And Fishing"
+251,2,A,"Agriculture, Forestry, And Fishing"
+252,2,A,"Agriculture, Forestry, And Fishing"
+253,2,A,"Agriculture, Forestry, And Fishing"
+254,2,A,"Agriculture, Forestry, And Fishing"
+259,2,A,"Agriculture, Forestry, And Fishing"
+271,2,A,"Agriculture, Forestry, And Fishing"
+272,2,A,"Agriculture, Forestry, And Fishing"
+273,2,A,"Agriculture, Forestry, And Fishing"
+279,2,A,"Agriculture, Forestry, And Fishing"
+291,2,A,"Agriculture, Forestry, And Fishing"
+711,7,A,"Agriculture, Forestry, And Fishing"
+721,7,A,"Agriculture, Forestry, And Fishing"
+722,7,A,"Agriculture, Forestry, And Fishing"
+723,7,A,"Agriculture, Forestry, And Fishing"
+724,7,A,"Agriculture, Forestry, And Fishing"
+729,7,A,"Agriculture, Forestry, And Fishing"
+741,7,A,"Agriculture, Forestry, And Fishing"
+742,7,A,"Agriculture, Forestry, And Fishing"
+751,7,A,"Agriculture, Forestry, And Fishing"
+752,7,A,"Agriculture, Forestry, And Fishing"
+761,7,A,"Agriculture, Forestry, And Fishing"
+762,7,A,"Agriculture, Forestry, And Fishing"
+781,7,A,"Agriculture, Forestry, And Fishing"
+782,7,A,"Agriculture, Forestry, And Fishing"
+783,7,A,"Agriculture, Forestry, And Fishing"
+811,8,A,"Agriculture, Forestry, And Fishing"
+821,8,A,"Agriculture, Forestry, And Fishing"
+831,8,A,"Agriculture, Forestry, And Fishing"
+843,8,A,"Agriculture, Forestry, And Fishing"
+849,8,A,"Agriculture, Forestry, And Fishing"
+851,8,A,"Agriculture, Forestry, And Fishing"
+912,9,A,"Agriculture, Forestry, And Fishing"
+913,9,A,"Agriculture, Forestry, And Fishing"
+919,9,A,"Agriculture, Forestry, And Fishing"
+921,9,A,"Agriculture, Forestry, And Fishing"
+971,9,A,"Agriculture, Forestry, And Fishing"
+1011,10,B,Mining
+1021,10,B,Mining
+1031,10,B,Mining
+1041,10,B,Mining
+1044,10,B,Mining
+1049,10,B,Mining
+1051,10,B,Mining
+1061,10,B,Mining
+1081,10,B,Mining
+1092,10,B,Mining
+1094,10,B,Mining
+1099,10,B,Mining
+1112,11,M,Missing
+1211,12,B,Mining
+1213,12,B,Mining
+1221,12,B,Mining
+1222,12,B,Mining
+1231,12,B,Mining
+1241,12,B,Mining
+1311,13,B,Mining
+1321,13,B,Mining
+1381,13,B,Mining
+1382,13,B,Mining
+1383,13,B,Mining
+1389,13,B,Mining
+1398,13,B,Mining
+1411,14,B,Mining
+1422,14,B,Mining
+1423,14,B,Mining
+1429,14,B,Mining
+1442,14,B,Mining
+1446,14,B,Mining
+1452,14,B,Mining
+1453,14,B,Mining
+1454,14,B,Mining
+1455,14,B,Mining
+1459,14,B,Mining
+1472,14,B,Mining
+1473,14,B,Mining
+1474,14,B,Mining
+1475,14,B,Mining
+1476,14,B,Mining
+1477,14,B,Mining
+1479,14,B,Mining
+1481,14,B,Mining
+1492,14,B,Mining
+1496,14,B,Mining
+1499,14,B,Mining
+1511,15,C,Construction
+1521,15,C,Construction
+1522,15,C,Construction
+1531,15,C,Construction
+1541,15,C,Construction
+1542,15,C,Construction
+1599,15,C,Construction
+1611,16,C,Construction
+1622,16,C,Construction
+1623,16,C,Construction
+1629,16,C,Construction
+1711,17,C,Construction
+1721,17,C,Construction
+1731,17,C,Construction
+1741,17,C,Construction
+1742,17,C,Construction
+1743,17,C,Construction
+1751,17,C,Construction
+1752,17,C,Construction
+1761,17,C,Construction
+1771,17,C,Construction
+1781,17,C,Construction
+1791,17,C,Construction
+1793,17,C,Construction
+1794,17,C,Construction
+1795,17,C,Construction
+1796,17,C,Construction
+1798,17,C,Construction
+1799,17,C,Construction
+1969,19,M,Missing
+2011,20,D,Manufacturing
+2013,20,D,Manufacturing
+2015,20,D,Manufacturing
+2016,20,D,Manufacturing
+2017,20,D,Manufacturing
+2021,20,D,Manufacturing
+2022,20,D,Manufacturing
+2023,20,D,Manufacturing
+2024,20,D,Manufacturing
+2026,20,D,Manufacturing
+2032,20,D,Manufacturing
+2033,20,D,Manufacturing
+2034,20,D,Manufacturing
+2035,20,D,Manufacturing
+2036,20,D,Manufacturing
+2037,20,D,Manufacturing
+2038,20,D,Manufacturing
+2041,20,D,Manufacturing
+2043,20,D,Manufacturing
+2044,20,D,Manufacturing
+2045,20,D,Manufacturing
+2046,20,D,Manufacturing
+2047,20,D,Manufacturing
+2048,20,D,Manufacturing
+2051,20,D,Manufacturing
+2052,20,D,Manufacturing
+2053,20,D,Manufacturing
+2061,20,D,Manufacturing
+2062,20,D,Manufacturing
+2063,20,D,Manufacturing
+2064,20,D,Manufacturing
+2065,20,D,Manufacturing
+2066,20,D,Manufacturing
+2067,20,D,Manufacturing
+2068,20,D,Manufacturing
+2074,20,D,Manufacturing
+2075,20,D,Manufacturing
+2076,20,D,Manufacturing
+2077,20,D,Manufacturing
+2079,20,D,Manufacturing
+2081,20,D,Manufacturing
+2082,20,D,Manufacturing
+2083,20,D,Manufacturing
+2084,20,D,Manufacturing
+2085,20,D,Manufacturing
+2086,20,D,Manufacturing
+2087,20,D,Manufacturing
+2088,20,D,Manufacturing
+2089,20,D,Manufacturing
+2091,20,D,Manufacturing
+2092,20,D,Manufacturing
+2095,20,D,Manufacturing
+2096,20,D,Manufacturing
+2097,20,D,Manufacturing
+2098,20,D,Manufacturing
+2099,20,D,Manufacturing
+2111,21,D,Manufacturing
+2121,21,D,Manufacturing
+2131,21,D,Manufacturing
+2141,21,D,Manufacturing
+2211,22,D,Manufacturing
+2221,22,D,Manufacturing
+2231,22,D,Manufacturing
+2241,22,D,Manufacturing
+2251,22,D,Manufacturing
+2252,22,D,Manufacturing
+2253,22,D,Manufacturing
+2254,22,D,Manufacturing
+2257,22,D,Manufacturing
+2258,22,D,Manufacturing
+2259,22,D,Manufacturing
+2261,22,D,Manufacturing
+2262,22,D,Manufacturing
+2269,22,D,Manufacturing
+2271,22,D,Manufacturing
+2272,22,D,Manufacturing
+2273,22,D,Manufacturing
+2279,22,D,Manufacturing
+2281,22,D,Manufacturing
+2282,22,D,Manufacturing
+2283,22,D,Manufacturing
+2284,22,D,Manufacturing
+2291,22,D,Manufacturing
+2292,22,D,Manufacturing
+2293,22,D,Manufacturing
+2294,22,D,Manufacturing
+2295,22,D,Manufacturing
+2296,22,D,Manufacturing
+2297,22,D,Manufacturing
+2298,22,D,Manufacturing
+2299,22,D,Manufacturing
+2311,23,D,Manufacturing
+2321,23,D,Manufacturing
+2322,23,D,Manufacturing
+2323,23,D,Manufacturing
+2325,23,D,Manufacturing
+2326,23,D,Manufacturing
+2327,23,D,Manufacturing
+2328,23,D,Manufacturing
+2329,23,D,Manufacturing
+2331,23,D,Manufacturing
+2335,23,D,Manufacturing
+2337,23,D,Manufacturing
+2339,23,D,Manufacturing
+2341,23,D,Manufacturing
+2342,23,D,Manufacturing
+2345,23,D,Manufacturing
+2351,23,D,Manufacturing
+2352,23,D,Manufacturing
+2353,23,D,Manufacturing
+2361,23,D,Manufacturing
+2363,23,D,Manufacturing
+2369,23,D,Manufacturing
+2371,23,D,Manufacturing
+2381,23,D,Manufacturing
+2384,23,D,Manufacturing
+2385,23,D,Manufacturing
+2386,23,D,Manufacturing
+2387,23,D,Manufacturing
+2389,23,D,Manufacturing
+2391,23,D,Manufacturing
+2392,23,D,Manufacturing
+2393,23,D,Manufacturing
+2394,23,D,Manufacturing
+2395,23,D,Manufacturing
+2396,23,D,Manufacturing
+2397,23,D,Manufacturing
+2399,23,D,Manufacturing
+2411,24,D,Manufacturing
+2421,24,D,Manufacturing
+2426,24,D,Manufacturing
+2429,24,D,Manufacturing
+2431,24,D,Manufacturing
+2434,24,D,Manufacturing
+2435,24,D,Manufacturing
+2436,24,D,Manufacturing
+2439,24,D,Manufacturing
+2441,24,D,Manufacturing
+2448,24,D,Manufacturing
+2449,24,D,Manufacturing
+2451,24,D,Manufacturing
+2452,24,D,Manufacturing
+2491,24,D,Manufacturing
+2492,24,D,Manufacturing
+2493,24,D,Manufacturing
+2499,24,D,Manufacturing
+2511,25,D,Manufacturing
+2512,25,D,Manufacturing
+2514,25,D,Manufacturing
+2515,25,D,Manufacturing
+2517,25,D,Manufacturing
+2519,25,D,Manufacturing
+2521,25,D,Manufacturing
+2522,25,D,Manufacturing
+2531,25,D,Manufacturing
+2541,25,D,Manufacturing
+2542,25,D,Manufacturing
+2591,25,D,Manufacturing
+2599,25,D,Manufacturing
+2611,26,D,Manufacturing
+2621,26,D,Manufacturing
+2631,26,D,Manufacturing
+2641,26,D,Manufacturing
+2642,26,D,Manufacturing
+2643,26,D,Manufacturing
+2645,26,D,Manufacturing
+2646,26,D,Manufacturing
+2647,26,D,Manufacturing
+2648,26,D,Manufacturing
+2649,26,D,Manufacturing
+2651,26,D,Manufacturing
+2652,26,D,Manufacturing
+2653,26,D,Manufacturing
+2654,26,D,Manufacturing
+2655,26,D,Manufacturing
+2656,26,D,Manufacturing
+2657,26,D,Manufacturing
+2661,26,D,Manufacturing
+2671,26,D,Manufacturing
+2672,26,D,Manufacturing
+2673,26,D,Manufacturing
+2674,26,D,Manufacturing
+2675,26,D,Manufacturing
+2676,26,D,Manufacturing
+2677,26,D,Manufacturing
+2678,26,D,Manufacturing
+2679,26,D,Manufacturing
+2711,27,D,Manufacturing
+2721,27,D,Manufacturing
+2731,27,D,Manufacturing
+2732,27,D,Manufacturing
+2741,27,D,Manufacturing
+2751,27,D,Manufacturing
+2752,27,D,Manufacturing
+2753,27,D,Manufacturing
+2754,27,D,Manufacturing
+2759,27,D,Manufacturing
+2761,27,D,Manufacturing
+2771,27,D,Manufacturing
+2782,27,D,Manufacturing
+2789,27,D,Manufacturing
+2791,27,D,Manufacturing
+2793,27,D,Manufacturing
+2794,27,D,Manufacturing
+2795,27,D,Manufacturing
+2796,27,D,Manufacturing
+2799,27,D,Manufacturing
+2812,28,D,Manufacturing
+2813,28,D,Manufacturing
+2816,28,D,Manufacturing
+2819,28,D,Manufacturing
+2821,28,D,Manufacturing
+2822,28,D,Manufacturing
+2823,28,D,Manufacturing
+2824,28,D,Manufacturing
+2831,28,D,Manufacturing
+2833,28,D,Manufacturing
+2834,28,D,Manufacturing
+2835,28,D,Manufacturing
+2836,28,D,Manufacturing
+2838,28,D,Manufacturing
+2839,28,D,Manufacturing
+2841,28,D,Manufacturing
+2842,28,D,Manufacturing
+2843,28,D,Manufacturing
+2844,28,D,Manufacturing
+2851,28,D,Manufacturing
+2861,28,D,Manufacturing
+2865,28,D,Manufacturing
+2869,28,D,Manufacturing
+2873,28,D,Manufacturing
+2874,28,D,Manufacturing
+2875,28,D,Manufacturing
+2879,28,D,Manufacturing
+2891,28,D,Manufacturing
+2892,28,D,Manufacturing
+2893,28,D,Manufacturing
+2895,28,D,Manufacturing
+2899,28,D,Manufacturing
+2911,29,D,Manufacturing
+2951,29,D,Manufacturing
+2952,29,D,Manufacturing
+2992,29,D,Manufacturing
+2999,29,D,Manufacturing
+3011,30,D,Manufacturing
+3021,30,D,Manufacturing
+3031,30,D,Manufacturing
+3041,30,D,Manufacturing
+3052,30,D,Manufacturing
+3053,30,D,Manufacturing
+3061,30,D,Manufacturing
+3069,30,D,Manufacturing
+3079,30,D,Manufacturing
+3081,30,D,Manufacturing
+3082,30,D,Manufacturing
+3083,30,D,Manufacturing
+3084,30,D,Manufacturing
+3085,30,D,Manufacturing
+3086,30,D,Manufacturing
+3087,30,D,Manufacturing
+3088,30,D,Manufacturing
+3089,30,D,Manufacturing
+3111,31,D,Manufacturing
+3131,31,D,Manufacturing
+3142,31,D,Manufacturing
+3143,31,D,Manufacturing
+3144,31,D,Manufacturing
+3149,31,D,Manufacturing
+3151,31,D,Manufacturing
+3161,31,D,Manufacturing
+3171,31,D,Manufacturing
+3172,31,D,Manufacturing
+3199,31,D,Manufacturing
+3211,32,D,Manufacturing
+3221,32,D,Manufacturing
+3225,32,D,Manufacturing
+3229,32,D,Manufacturing
+3231,32,D,Manufacturing
+3241,32,D,Manufacturing
+3251,32,D,Manufacturing
+3253,32,D,Manufacturing
+3255,32,D,Manufacturing
+3259,32,D,Manufacturing
+3261,32,D,Manufacturing
+3262,32,D,Manufacturing
+3263,32,D,Manufacturing
+3264,32,D,Manufacturing
+3269,32,D,Manufacturing
+3271,32,D,Manufacturing
+3272,32,D,Manufacturing
+3273,32,D,Manufacturing
+3274,32,D,Manufacturing
+3275,32,D,Manufacturing
+3281,32,D,Manufacturing
+3291,32,D,Manufacturing
+3292,32,D,Manufacturing
+3293,32,D,Manufacturing
+3295,32,D,Manufacturing
+3296,32,D,Manufacturing
+3297,32,D,Manufacturing
+3299,32,D,Manufacturing
+3312,33,D,Manufacturing
+3313,33,D,Manufacturing
+3315,33,D,Manufacturing
+3316,33,D,Manufacturing
+3317,33,D,Manufacturing
+3321,33,D,Manufacturing
+3322,33,D,Manufacturing
+3324,33,D,Manufacturing
+3325,33,D,Manufacturing
+3331,33,D,Manufacturing
+3332,33,D,Manufacturing
+3334,33,D,Manufacturing
+3339,33,D,Manufacturing
+3341,33,D,Manufacturing
+3351,33,D,Manufacturing
+3353,33,D,Manufacturing
+3354,33,D,Manufacturing
+3355,33,D,Manufacturing
+3356,33,D,Manufacturing
+3357,33,D,Manufacturing
+3359,33,D,Manufacturing
+3361,33,D,Manufacturing
+3362,33,D,Manufacturing
+3363,33,D,Manufacturing
+3364,33,D,Manufacturing
+3365,33,D,Manufacturing
+3366,33,D,Manufacturing
+3369,33,D,Manufacturing
+3398,33,D,Manufacturing
+3399,33,D,Manufacturing
+3411,34,D,Manufacturing
+3412,34,D,Manufacturing
+3421,34,D,Manufacturing
+3423,34,D,Manufacturing
+3425,34,D,Manufacturing
+3429,34,D,Manufacturing
+3431,34,D,Manufacturing
+3432,34,D,Manufacturing
+3433,34,D,Manufacturing
+3441,34,D,Manufacturing
+3442,34,D,Manufacturing
+3443,34,D,Manufacturing
+3444,34,D,Manufacturing
+3446,34,D,Manufacturing
+3448,34,D,Manufacturing
+3449,34,D,Manufacturing
+3451,34,D,Manufacturing
+3452,34,D,Manufacturing
+3462,34,D,Manufacturing
+3463,34,D,Manufacturing
+3465,34,D,Manufacturing
+3466,34,D,Manufacturing
+3469,34,D,Manufacturing
+3471,34,D,Manufacturing
+3479,34,D,Manufacturing
+3482,34,D,Manufacturing
+3483,34,D,Manufacturing
+3484,34,D,Manufacturing
+3489,34,D,Manufacturing
+3491,34,D,Manufacturing
+3492,34,D,Manufacturing
+3493,34,D,Manufacturing
+3494,34,D,Manufacturing
+3495,34,D,Manufacturing
+3496,34,D,Manufacturing
+3497,34,D,Manufacturing
+3498,34,D,Manufacturing
+3499,34,D,Manufacturing
+3511,35,D,Manufacturing
+3519,35,D,Manufacturing
+3523,35,D,Manufacturing
+3524,35,D,Manufacturing
+3531,35,D,Manufacturing
+3532,35,D,Manufacturing
+3533,35,D,Manufacturing
+3534,35,D,Manufacturing
+3535,35,D,Manufacturing
+3536,35,D,Manufacturing
+3537,35,D,Manufacturing
+3541,35,D,Manufacturing
+3542,35,D,Manufacturing
+3543,35,D,Manufacturing
+3544,35,D,Manufacturing
+3545,35,D,Manufacturing
+3546,35,D,Manufacturing
+3547,35,D,Manufacturing
+3548,35,D,Manufacturing
+3549,35,D,Manufacturing
+3551,35,D,Manufacturing
+3552,35,D,Manufacturing
+3553,35,D,Manufacturing
+3554,35,D,Manufacturing
+3555,35,D,Manufacturing
+3556,35,D,Manufacturing
+3559,35,D,Manufacturing
+3561,35,D,Manufacturing
+3562,35,D,Manufacturing
+3563,35,D,Manufacturing
+3564,35,D,Manufacturing
+3565,35,D,Manufacturing
+3566,35,D,Manufacturing
+3567,35,D,Manufacturing
+3568,35,D,Manufacturing
+3569,35,D,Manufacturing
+3571,35,D,Manufacturing
+3572,35,D,Manufacturing
+3573,35,D,Manufacturing
+3574,35,D,Manufacturing
+3575,35,D,Manufacturing
+3576,35,D,Manufacturing
+3577,35,D,Manufacturing
+3578,35,D,Manufacturing
+3579,35,D,Manufacturing
+3581,35,D,Manufacturing
+3582,35,D,Manufacturing
+3585,35,D,Manufacturing
+3586,35,D,Manufacturing
+3589,35,D,Manufacturing
+3592,35,D,Manufacturing
+3593,35,D,Manufacturing
+3594,35,D,Manufacturing
+3596,35,D,Manufacturing
+3598,35,D,Manufacturing
+3599,35,D,Manufacturing
+3611,36,D,Manufacturing
+3612,36,D,Manufacturing
+3613,36,D,Manufacturing
+3621,36,D,Manufacturing
+3622,36,D,Manufacturing
+3623,36,D,Manufacturing
+3624,36,D,Manufacturing
+3625,36,D,Manufacturing
+3629,36,D,Manufacturing
+3631,36,D,Manufacturing
+3632,36,D,Manufacturing
+3633,36,D,Manufacturing
+3634,36,D,Manufacturing
+3635,36,D,Manufacturing
+3636,36,D,Manufacturing
+3639,36,D,Manufacturing
+3641,36,D,Manufacturing
+3643,36,D,Manufacturing
+3644,36,D,Manufacturing
+3645,36,D,Manufacturing
+3646,36,D,Manufacturing
+3647,36,D,Manufacturing
+3648,36,D,Manufacturing
+3651,36,D,Manufacturing
+3652,36,D,Manufacturing
+3655,36,D,Manufacturing
+3661,36,D,Manufacturing
+3662,36,D,Manufacturing
+3663,36,D,Manufacturing
+3665,36,D,Manufacturing
+3669,36,D,Manufacturing
+3671,36,D,Manufacturing
+3672,36,D,Manufacturing
+3673,36,D,Manufacturing
+3674,36,D,Manufacturing
+3675,36,D,Manufacturing
+3676,36,D,Manufacturing
+3677,36,D,Manufacturing
+3678,36,D,Manufacturing
+3679,36,D,Manufacturing
+3691,36,D,Manufacturing
+3692,36,D,Manufacturing
+3693,36,D,Manufacturing
+3694,36,D,Manufacturing
+3695,36,D,Manufacturing
+3698,36,D,Manufacturing
+3699,36,D,Manufacturing
+3711,37,D,Manufacturing
+3713,37,D,Manufacturing
+3714,37,D,Manufacturing
+3715,37,D,Manufacturing
+3716,37,D,Manufacturing
+3721,37,D,Manufacturing
+3724,37,D,Manufacturing
+3728,37,D,Manufacturing
+3731,37,D,Manufacturing
+3732,37,D,Manufacturing
+3741,37,D,Manufacturing
+3743,37,D,Manufacturing
+3751,37,D,Manufacturing
+3761,37,D,Manufacturing
+3764,37,D,Manufacturing
+3769,37,D,Manufacturing
+3781,37,D,Manufacturing
+3792,37,D,Manufacturing
+3795,37,D,Manufacturing
+3799,37,D,Manufacturing
+3811,38,D,Manufacturing
+3812,38,D,Manufacturing
+3815,38,D,Manufacturing
+3821,38,D,Manufacturing
+3822,38,D,Manufacturing
+3823,38,D,Manufacturing
+3824,38,D,Manufacturing
+3825,38,D,Manufacturing
+3826,38,D,Manufacturing
+3827,38,D,Manufacturing
+3829,38,D,Manufacturing
+3832,38,D,Manufacturing
+3841,38,D,Manufacturing
+3842,38,D,Manufacturing
+3843,38,D,Manufacturing
+3844,38,D,Manufacturing
+3845,38,D,Manufacturing
+3851,38,D,Manufacturing
+3861,38,D,Manufacturing
+3873,38,D,Manufacturing
+3911,39,D,Manufacturing
+3914,39,D,Manufacturing
+3915,39,D,Manufacturing
+3931,39,D,Manufacturing
+3942,39,D,Manufacturing
+3944,39,D,Manufacturing
+3949,39,D,Manufacturing
+3951,39,D,Manufacturing
+3952,39,D,Manufacturing
+3953,39,D,Manufacturing
+3955,39,D,Manufacturing
+3961,39,D,Manufacturing
+3962,39,D,Manufacturing
+3963,39,D,Manufacturing
+3964,39,D,Manufacturing
+3965,39,D,Manufacturing
+3988,39,D,Manufacturing
+3991,39,D,Manufacturing
+3993,39,D,Manufacturing
+3995,39,D,Manufacturing
+3996,39,D,Manufacturing
+3998,39,D,Manufacturing
+3999,39,D,Manufacturing
+4011,40,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4013,40,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4111,41,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4119,41,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4121,41,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4125,41,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4131,41,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4141,41,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4142,41,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4151,41,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4171,41,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4172,41,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4173,41,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4212,42,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4213,42,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4214,42,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4215,42,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4221,42,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4222,42,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4224,42,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4225,42,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4226,42,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4231,42,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4311,43,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4411,44,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4412,44,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4421,44,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4422,44,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4423,44,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4424,44,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4431,44,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4432,44,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4441,44,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4449,44,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4452,44,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4453,44,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4454,44,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4459,44,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4463,44,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4464,44,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4469,44,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4481,44,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4482,44,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4489,44,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4491,44,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4492,44,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4493,44,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4499,44,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4511,45,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4512,45,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4513,45,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4521,45,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4522,45,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4551,45,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4581,45,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4582,45,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4583,45,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4612,46,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4613,46,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4619,46,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4712,47,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4722,47,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4723,47,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4724,47,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4725,47,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4729,47,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4731,47,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4741,47,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4742,47,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4743,47,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4782,47,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4783,47,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4784,47,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4785,47,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4789,47,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4811,48,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4812,48,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4813,48,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4821,48,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4822,48,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4825,48,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4832,48,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4833,48,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4841,48,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4899,48,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4911,49,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4922,49,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4923,49,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4924,49,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4925,49,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4931,49,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4932,49,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4939,49,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4941,49,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4952,49,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4953,49,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4955,49,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4959,49,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4961,49,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4971,49,E,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+5008,50,F,Wholesale Trade
+5012,50,F,Wholesale Trade
+5013,50,F,Wholesale Trade
+5014,50,F,Wholesale Trade
+5015,50,F,Wholesale Trade
+5021,50,F,Wholesale Trade
+5023,50,F,Wholesale Trade
+5031,50,F,Wholesale Trade
+5032,50,F,Wholesale Trade
+5033,50,F,Wholesale Trade
+5039,50,F,Wholesale Trade
+5041,50,F,Wholesale Trade
+5042,50,F,Wholesale Trade
+5043,50,F,Wholesale Trade
+5044,50,F,Wholesale Trade
+5045,50,F,Wholesale Trade
+5046,50,F,Wholesale Trade
+5047,50,F,Wholesale Trade
+5048,50,F,Wholesale Trade
+5049,50,F,Wholesale Trade
+5051,50,F,Wholesale Trade
+5052,50,F,Wholesale Trade
+5054,50,F,Wholesale Trade
+5063,50,F,Wholesale Trade
+5064,50,F,Wholesale Trade
+5065,50,F,Wholesale Trade
+5072,50,F,Wholesale Trade
+5074,50,F,Wholesale Trade
+5075,50,F,Wholesale Trade
+5078,50,F,Wholesale Trade
+5081,50,F,Wholesale Trade
+5082,50,F,Wholesale Trade
+5083,50,F,Wholesale Trade
+5084,50,F,Wholesale Trade
+5085,50,F,Wholesale Trade
+5086,50,F,Wholesale Trade
+5087,50,F,Wholesale Trade
+5088,50,F,Wholesale Trade
+5091,50,F,Wholesale Trade
+5092,50,F,Wholesale Trade
+5093,50,F,Wholesale Trade
+5094,50,F,Wholesale Trade
+5098,50,F,Wholesale Trade
+5099,50,F,Wholesale Trade
+5111,51,F,Wholesale Trade
+5112,51,F,Wholesale Trade
+5113,51,F,Wholesale Trade
+5122,51,F,Wholesale Trade
+5129,51,F,Wholesale Trade
+5131,51,F,Wholesale Trade
+5133,51,F,Wholesale Trade
+5134,51,F,Wholesale Trade
+5136,51,F,Wholesale Trade
+5137,51,F,Wholesale Trade
+5139,51,F,Wholesale Trade
+5141,51,F,Wholesale Trade
+5142,51,F,Wholesale Trade
+5143,51,F,Wholesale Trade
+5144,51,F,Wholesale Trade
+5145,51,F,Wholesale Trade
+5146,51,F,Wholesale Trade
+5147,51,F,Wholesale Trade
+5148,51,F,Wholesale Trade
+5149,51,F,Wholesale Trade
+5152,51,F,Wholesale Trade
+5153,51,F,Wholesale Trade
+5154,51,F,Wholesale Trade
+5159,51,F,Wholesale Trade
+5161,51,F,Wholesale Trade
+5162,51,F,Wholesale Trade
+5169,51,F,Wholesale Trade
+5171,51,F,Wholesale Trade
+5172,51,F,Wholesale Trade
+5181,51,F,Wholesale Trade
+5182,51,F,Wholesale Trade
+5191,51,F,Wholesale Trade
+5192,51,F,Wholesale Trade
+5193,51,F,Wholesale Trade
+5194,51,F,Wholesale Trade
+5198,51,F,Wholesale Trade
+5199,51,F,Wholesale Trade
+5211,52,G,Retail Trade
+5231,52,G,Retail Trade
+5251,52,G,Retail Trade
+5261,52,G,Retail Trade
+5271,52,G,Retail Trade
+5311,53,G,Retail Trade
+5331,53,G,Retail Trade
+5399,53,G,Retail Trade
+5411,54,G,Retail Trade
+5416,54,G,Retail Trade
+5421,54,G,Retail Trade
+5422,54,G,Retail Trade
+5423,54,G,Retail Trade
+5431,54,G,Retail Trade
+5441,54,G,Retail Trade
+5451,54,G,Retail Trade
+5461,54,G,Retail Trade
+5462,54,G,Retail Trade
+5463,54,G,Retail Trade
+5499,54,G,Retail Trade
+5511,55,G,Retail Trade
+5521,55,G,Retail Trade
+5531,55,G,Retail Trade
+5541,55,G,Retail Trade
+5551,55,G,Retail Trade
+5561,55,G,Retail Trade
+5571,55,G,Retail Trade
+5599,55,G,Retail Trade
+5611,56,G,Retail Trade
+5621,56,G,Retail Trade
+5631,56,G,Retail Trade
+5632,56,G,Retail Trade
+5641,56,G,Retail Trade
+5651,56,G,Retail Trade
+5661,56,G,Retail Trade
+5681,56,G,Retail Trade
+5699,56,G,Retail Trade
+5712,57,G,Retail Trade
+5713,57,G,Retail Trade
+5714,57,G,Retail Trade
+5719,57,G,Retail Trade
+5721,57,G,Retail Trade
+5722,57,G,Retail Trade
+5731,57,G,Retail Trade
+5732,57,G,Retail Trade
+5733,57,G,Retail Trade
+5734,57,G,Retail Trade
+5735,57,G,Retail Trade
+5736,57,G,Retail Trade
+5812,58,G,Retail Trade
+5813,58,G,Retail Trade
+5891,58,G,Retail Trade
+5912,59,G,Retail Trade
+5917,59,G,Retail Trade
+5921,59,G,Retail Trade
+5931,59,G,Retail Trade
+5932,59,G,Retail Trade
+5941,59,G,Retail Trade
+5942,59,G,Retail Trade
+5943,59,G,Retail Trade
+5944,59,G,Retail Trade
+5945,59,G,Retail Trade
+5946,59,G,Retail Trade
+5947,59,G,Retail Trade
+5948,59,G,Retail Trade
+5949,59,G,Retail Trade
+5961,59,G,Retail Trade
+5962,59,G,Retail Trade
+5963,59,G,Retail Trade
+5982,59,G,Retail Trade
+5983,59,G,Retail Trade
+5984,59,G,Retail Trade
+5989,59,G,Retail Trade
+5992,59,G,Retail Trade
+5993,59,G,Retail Trade
+5994,59,G,Retail Trade
+5995,59,G,Retail Trade
+5999,59,G,Retail Trade
+6011,60,H,"Finance, Insurance, And Real Estate"
+6019,60,H,"Finance, Insurance, And Real Estate"
+6021,60,H,"Finance, Insurance, And Real Estate"
+6022,60,H,"Finance, Insurance, And Real Estate"
+6023,60,H,"Finance, Insurance, And Real Estate"
+6024,60,H,"Finance, Insurance, And Real Estate"
+6025,60,H,"Finance, Insurance, And Real Estate"
+6026,60,H,"Finance, Insurance, And Real Estate"
+6027,60,H,"Finance, Insurance, And Real Estate"
+6029,60,H,"Finance, Insurance, And Real Estate"
+6032,60,H,"Finance, Insurance, And Real Estate"
+6033,60,H,"Finance, Insurance, And Real Estate"
+6034,60,H,"Finance, Insurance, And Real Estate"
+6035,60,H,"Finance, Insurance, And Real Estate"
+6036,60,H,"Finance, Insurance, And Real Estate"
+6039,60,H,"Finance, Insurance, And Real Estate"
+6042,60,H,"Finance, Insurance, And Real Estate"
+6044,60,H,"Finance, Insurance, And Real Estate"
+6052,60,H,"Finance, Insurance, And Real Estate"
+6055,60,H,"Finance, Insurance, And Real Estate"
+6056,60,H,"Finance, Insurance, And Real Estate"
+6059,60,H,"Finance, Insurance, And Real Estate"
+6061,60,H,"Finance, Insurance, And Real Estate"
+6062,60,H,"Finance, Insurance, And Real Estate"
+6081,60,H,"Finance, Insurance, And Real Estate"
+6082,60,H,"Finance, Insurance, And Real Estate"
+6091,60,H,"Finance, Insurance, And Real Estate"
+6099,60,H,"Finance, Insurance, And Real Estate"
+6111,61,H,"Finance, Insurance, And Real Estate"
+6112,61,H,"Finance, Insurance, And Real Estate"
+6122,61,H,"Finance, Insurance, And Real Estate"
+6123,61,H,"Finance, Insurance, And Real Estate"
+6124,61,H,"Finance, Insurance, And Real Estate"
+6125,61,H,"Finance, Insurance, And Real Estate"
+6131,61,H,"Finance, Insurance, And Real Estate"
+6141,61,H,"Finance, Insurance, And Real Estate"
+6142,61,H,"Finance, Insurance, And Real Estate"
+6143,61,H,"Finance, Insurance, And Real Estate"
+6144,61,H,"Finance, Insurance, And Real Estate"
+6145,61,H,"Finance, Insurance, And Real Estate"
+6146,61,H,"Finance, Insurance, And Real Estate"
+6149,61,H,"Finance, Insurance, And Real Estate"
+6153,61,H,"Finance, Insurance, And Real Estate"
+6159,61,H,"Finance, Insurance, And Real Estate"
+6162,61,H,"Finance, Insurance, And Real Estate"
+6163,61,H,"Finance, Insurance, And Real Estate"
+6172,61,H,"Finance, Insurance, And Real Estate"
+6199,61,H,"Finance, Insurance, And Real Estate"
+6211,62,H,"Finance, Insurance, And Real Estate"
+6218,62,H,"Finance, Insurance, And Real Estate"
+6221,62,H,"Finance, Insurance, And Real Estate"
+6231,62,H,"Finance, Insurance, And Real Estate"
+6281,62,H,"Finance, Insurance, And Real Estate"
+6282,62,H,"Finance, Insurance, And Real Estate"
+6289,62,H,"Finance, Insurance, And Real Estate"
+6311,63,H,"Finance, Insurance, And Real Estate"
+6321,63,H,"Finance, Insurance, And Real Estate"
+6324,63,H,"Finance, Insurance, And Real Estate"
+6331,63,H,"Finance, Insurance, And Real Estate"
+6351,63,H,"Finance, Insurance, And Real Estate"
+6361,63,H,"Finance, Insurance, And Real Estate"
+6371,63,H,"Finance, Insurance, And Real Estate"
+6399,63,H,"Finance, Insurance, And Real Estate"
+6411,64,H,"Finance, Insurance, And Real Estate"
+6511,65,H,"Finance, Insurance, And Real Estate"
+6512,65,H,"Finance, Insurance, And Real Estate"
+6513,65,H,"Finance, Insurance, And Real Estate"
+6514,65,H,"Finance, Insurance, And Real Estate"
+6515,65,H,"Finance, Insurance, And Real Estate"
+6517,65,H,"Finance, Insurance, And Real Estate"
+6519,65,H,"Finance, Insurance, And Real Estate"
+6531,65,H,"Finance, Insurance, And Real Estate"
+6541,65,H,"Finance, Insurance, And Real Estate"
+6552,65,H,"Finance, Insurance, And Real Estate"
+6553,65,H,"Finance, Insurance, And Real Estate"
+6611,66,M,Missing
+6619,66,M,Missing
+6711,67,H,"Finance, Insurance, And Real Estate"
+6712,67,H,"Finance, Insurance, And Real Estate"
+6719,67,H,"Finance, Insurance, And Real Estate"
+6722,67,H,"Finance, Insurance, And Real Estate"
+6723,67,H,"Finance, Insurance, And Real Estate"
+6724,67,H,"Finance, Insurance, And Real Estate"
+6726,67,H,"Finance, Insurance, And Real Estate"
+6732,67,H,"Finance, Insurance, And Real Estate"
+6733,67,H,"Finance, Insurance, And Real Estate"
+6743,67,H,"Finance, Insurance, And Real Estate"
+6744,67,H,"Finance, Insurance, And Real Estate"
+6749,67,H,"Finance, Insurance, And Real Estate"
+6792,67,H,"Finance, Insurance, And Real Estate"
+6793,67,H,"Finance, Insurance, And Real Estate"
+6794,67,H,"Finance, Insurance, And Real Estate"
+6798,67,H,"Finance, Insurance, And Real Estate"
+6799,67,H,"Finance, Insurance, And Real Estate"
+7011,70,I,Services
+7021,70,I,Services
+7032,70,I,Services
+7033,70,I,Services
+7041,70,I,Services
+7139,71,M,Missing
+7172,71,M,Missing
+7211,72,I,Services
+7212,72,I,Services
+7213,72,I,Services
+7214,72,I,Services
+7215,72,I,Services
+7216,72,I,Services
+7217,72,I,Services
+7218,72,I,Services
+7219,72,I,Services
+7221,72,I,Services
+7231,72,I,Services
+7241,72,I,Services
+7251,72,I,Services
+7261,72,I,Services
+7289,72,I,Services
+7291,72,I,Services
+7299,72,I,Services
+7311,73,I,Services
+7312,73,I,Services
+7313,73,I,Services
+7319,73,I,Services
+7321,73,I,Services
+7322,73,I,Services
+7323,73,I,Services
+7331,73,I,Services
+7332,73,I,Services
+7333,73,I,Services
+7334,73,I,Services
+7335,73,I,Services
+7336,73,I,Services
+7338,73,I,Services
+7339,73,I,Services
+7341,73,I,Services
+7342,73,I,Services
+7349,73,I,Services
+7351,73,I,Services
+7352,73,I,Services
+7353,73,I,Services
+7359,73,I,Services
+7361,73,I,Services
+7362,73,I,Services
+7363,73,I,Services
+7369,73,I,Services
+7371,73,I,Services
+7372,73,I,Services
+7373,73,I,Services
+7374,73,I,Services
+7375,73,I,Services
+7376,73,I,Services
+7377,73,I,Services
+7378,73,I,Services
+7379,73,I,Services
+7381,73,I,Services
+7382,73,I,Services
+7383,73,I,Services
+7384,73,I,Services
+7389,73,I,Services
+7391,73,I,Services
+7392,73,I,Services
+7393,73,I,Services
+7394,73,I,Services
+7395,73,I,Services
+7396,73,I,Services
+7397,73,I,Services
+7398,73,I,Services
+7399,73,I,Services
+7512,75,I,Services
+7513,75,I,Services
+7514,75,I,Services
+7515,75,I,Services
+7519,75,I,Services
+7521,75,I,Services
+7523,75,I,Services
+7525,75,I,Services
+7531,75,I,Services
+7532,75,I,Services
+7533,75,I,Services
+7534,75,I,Services
+7535,75,I,Services
+7536,75,I,Services
+7537,75,I,Services
+7538,75,I,Services
+7539,75,I,Services
+7541,75,I,Services
+7542,75,I,Services
+7549,75,I,Services
+7622,76,I,Services
+7623,76,I,Services
+7629,76,I,Services
+7631,76,I,Services
+7641,76,I,Services
+7692,76,I,Services
+7694,76,I,Services
+7698,76,I,Services
+7699,76,I,Services
+7812,78,I,Services
+7813,78,I,Services
+7814,78,I,Services
+7819,78,I,Services
+7822,78,I,Services
+7823,78,I,Services
+7824,78,I,Services
+7829,78,I,Services
+7832,78,I,Services
+7833,78,I,Services
+7841,78,I,Services
+7872,78,I,Services
+7911,79,I,Services
+7922,79,I,Services
+7929,79,I,Services
+7932,79,I,Services
+7933,79,I,Services
+7941,79,I,Services
+7948,79,I,Services
+7953,79,I,Services
+7984,79,I,Services
+7991,79,I,Services
+7992,79,I,Services
+7993,79,I,Services
+7996,79,I,Services
+7997,79,I,Services
+7999,79,I,Services
+8009,80,I,Services
+8011,80,I,Services
+8021,80,I,Services
+8031,80,I,Services
+8041,80,I,Services
+8042,80,I,Services
+8043,80,I,Services
+8049,80,I,Services
+8051,80,I,Services
+8052,80,I,Services
+8059,80,I,Services
+8062,80,I,Services
+8063,80,I,Services
+8069,80,I,Services
+8071,80,I,Services
+8072,80,I,Services
+8081,80,I,Services
+8082,80,I,Services
+8091,80,I,Services
+8092,80,I,Services
+8093,80,I,Services
+8099,80,I,Services
+8111,81,I,Services
+8211,82,I,Services
+8221,82,I,Services
+8222,82,I,Services
+8229,82,I,Services
+8231,82,I,Services
+8241,82,I,Services
+8243,82,I,Services
+8244,82,I,Services
+8249,82,I,Services
+8299,82,I,Services
+8317,83,I,Services
+8321,83,I,Services
+8322,83,I,Services
+8331,83,I,Services
+8351,83,I,Services
+8361,83,I,Services
+8399,83,I,Services
+8411,84,I,Services
+8412,84,I,Services
+8421,84,I,Services
+8422,84,I,Services
+8611,86,I,Services
+8621,86,I,Services
+8631,86,I,Services
+8641,86,I,Services
+8651,86,I,Services
+8661,86,I,Services
+8699,86,I,Services
+8711,87,I,Services
+8712,87,I,Services
+8713,87,I,Services
+8721,87,I,Services
+8731,87,I,Services
+8732,87,I,Services
+8733,87,I,Services
+8734,87,I,Services
+8741,87,I,Services
+8742,87,I,Services
+8743,87,I,Services
+8744,87,I,Services
+8748,87,I,Services
+8784,87,I,Services
+8811,88,I,Services
+8911,89,I,Services
+8922,89,I,Services
+8931,89,I,Services
+8999,89,I,Services
+9111,91,J,Public Administration
+9121,91,J,Public Administration
+9131,91,J,Public Administration
+9199,91,J,Public Administration
+9211,92,J,Public Administration
+9221,92,J,Public Administration
+9222,92,J,Public Administration
+9223,92,J,Public Administration
+9224,92,J,Public Administration
+9229,92,J,Public Administration
+9311,93,J,Public Administration
+9411,94,J,Public Administration
+9431,94,J,Public Administration
+9441,94,J,Public Administration
+9451,94,J,Public Administration
+9511,95,J,Public Administration
+9512,95,J,Public Administration
+9531,95,J,Public Administration
+9532,95,J,Public Administration
+9611,96,J,Public Administration
+9621,96,J,Public Administration
+9631,96,J,Public Administration
+9641,96,J,Public Administration
+9651,96,J,Public Administration
+9661,96,J,Public Administration
+9711,97,J,Public Administration
+9721,97,J,Public Administration
+9999,99,J,Public Administration

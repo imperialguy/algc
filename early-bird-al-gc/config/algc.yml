@@ -1,0 +1,226 @@
+---
+  fixtures:    
+    fixture_test_limit: 1
+    default_account_name: "TEST, LLC"
+    random_year_start: 2008
+    random_year_end: 2016
+    random_month_start: 1
+    random_month_end: 12
+    random_day_start: 1
+    random_day_end: 27
+    input_date_format: "%m/%d/%Y" # TODO: change this to "%Y-%m-%d"
+    valid_divisions:
+      - 21
+      - 26
+      - 54
+      - 55
+      - 59
+      - 82
+    default_underwriter: "ABC"
+    vehicle_count_limit: 100
+    valid_predominant_radiuses:
+      - Local
+      - Intermediate
+      - Long
+    valid_policy_limits:
+      - 1000000
+      - 2000000
+      - 5000000
+      - 10000000
+    default_dnb: "624963138"
+    default_financial_score: 43
+    average_claim_round_off_digits: 6
+    num_claims_limit: 11
+    fixture_file_name_timestamp_formatter: "%Y%m%d%H%M%S"
+    fixture_file_extension: json
+    data_directory: data
+    json_pretty_print: true
+    json_pretty_print_indent: 2
+    json_pretty_sort_keys_flag: true
+    generate: false
+    remove_fixture: false
+    in_filename_appender: in
+    out_filename_appender: out
+    log_to_file: true
+    dynamic_fixture_platform: win32
+    platform_error: this test cannot be run on non-windows platform(s)
+    minimum_financial_score: 10
+    maximum_duns_test_limit: 10000
+    test_invalid_rules:
+      - rule_1
+      - rule_2
+    test_invalid_custom_rule_features:
+      feature_1: try
+      feature_2: me
+    test_invalid_type_coefficient: 9.889
+    test_density_constant: 10
+    test_invalid_density_constant: 93.9039
+    test_unavailable_coefficient: calculate_what_is_this
+    test_available_coefficient: cnt_deviation_0
+    test_available_coefficient_function_name: calculate_count_deviation_0
+    test_invalid_eazi_dataframe: 880232.23132
+    test_decimal_points: 4
+    test_expense_constant: 0.35
+    test_parameters_fitted_result: 1.588946
+    test_valid_sigma_squared_constant: 1.23
+    test_valid_sigma_squared_result: 3.43
+    test_valid_premium: 34.232
+    test_valid_upper_coefficient: 4
+    test_valid_lower_coefficient: 7
+    test_upper_bound_result: 830.7796108342018
+    test_lower_bound_result: 215010.53444563187
+    test_bad_data_string: bad data warning
+    test_ilf_result: 13.45545436
+    test_division: 55
+    test_state: AZ
+    test_policy_limit: 300
+    test_fixed_occurence_limit: 1000
+    test_ilf_weight_class: Light
+    testing_log_level: 10 # logging levels: 10 - DEBUG, 20 - INFO, 30 - WARNING, 40 - ERROR, 50 - CRITICAL
+    random_duns_sql: >
+      select f.duns_number, f.fpct from (
+         select duns_number, max(update_ts) as latest
+         from lnd_t_dnb_csad group by duns_number
+      ) as x inner join lnd_t_dnb_csad as f on f.duns_number = x.duns_number and f.update_ts = x.latest 
+      where f.fpct > 0 order by mt_random() limit {duns_limit}
+    fpct_sql: >
+      select fpct from lnd_t_dnb_csad where duns_number = {random_duns_number} 
+      order by update_ts desc limit 1
+    test_projection_data:
+      Light: 131180.14847264561
+      Medium: 148407.1028469342
+      Heavy: 148407.1028469342
+      Extra Heavy: 162422.73085134602
+    test_percentage_data:
+      Light: 0.32
+      Medium: 0.54
+      Heavy: 0.1
+      Extra Heavy: 0.04
+    test_projection_result: 143455.10256733833
+
+  files:
+    fixtures_directory: fixtures
+    data_directory: data
+    logs_directory: logs
+    sic_file_name: sic.csv
+    eazi_file_name: eazi.csv
+    state_group_file_name: state_groups.csv
+    lists_file_name: lists.csv
+    parameter_coefficients_file: parameters_feature_coefficient.csv
+    frequency_coefficients_file: frequency_feature_coefficient.csv
+    covariance_file_name: covariance.csv
+    ilf_file_name: ilf.csv
+    balance_rate_file_name: balance_rate.csv
+    balance_ratio_file_name: balance_ratio.csv
+    model_rules_configuration_filename: rules.cfg
+    default_fixture_filename: 20170419142156.in.json
+    excel_test_workbook_filename: aleb_tool_testing.xlsm
+    tests_log_filename: algc_test_results.log
+    processor_log_filename: processor_results.log
+
+  excel:
+    interface_sheet: "Interface ALGC"
+    calculation_sheet: "Calculation ALGC"
+    frequency_model_sheet: "Freq Model ALGC"
+    parameters_model_sheet: "Parameters ALGC"
+    account_name_loc: C2
+    effective_date_loc: C3
+    division_loc: C4
+    underwriter_loc: C5
+    sic_loc: C8
+    sic_description_loc: C9
+    state_loc: C12
+    zip_code_loc: C13
+    vehicle_count_loc: C16
+    predominant_radius_loc: C17
+    percentage_vehicles_light_loc: C19
+    percentage_vehicles_medium_loc: C20
+    percentage_vehicles_heavy_loc: C21
+    percentage_vehicles_extra_heavy_loc: C22
+    policy_limit_loc: G8
+    dnb_loc: G12
+    financial_score_loc: G13
+    number_of_claims_in_the_last_year_loc: G16
+    number_of_claims_in_the_2nd_last_year_loc: G17
+    number_of_claims_in_the_3rd_last_year_loc: G18
+    average_claim_count_in_last_3_years_loc: G19
+    mid_point_loc: C30
+    per_vehicle_loc: G30
+    lower_bound_loc: A30
+    upper_bound_loc: E30
+    freqency_fitted_light_loc: B37
+    freqency_fitted_medium_loc: B40
+    freqency_fitted_heavy_loc: B43
+    freqency_fitted_extra_heavy_loc: B46
+    parameters_fitted_light_loc: B42
+    parameters_fitted_medium_loc: B46
+    parameters_fitted_heavy_loc: B50
+    parameters_fitted_extra_heavy_loc: B54
+    parameters_sigma2_light_loc: B43
+    parameters_sigma2_medium_loc: B47
+    parameters_sigma2_heavy_loc: B51
+    parameters_sigma2_extra_heavy_loc: B55
+
+  database:
+    db_dsn: EDP
+    db_driver: NetezzaSQL
+    db_server: paccmrclntza01.r1-core.r1.aig.net
+    db_name: ADM_LND_P
+    db_user: <username>
+    db_password: <password>
+
+  processor:
+    processor_log_level: 10 # logging levels: 10 - DEBUG, 20 - INFO, 30 - WARNING, 40 - ERROR, 50 - CRITICAL
+    fixed_occurence_limit: 1000000
+    fitted_round_off_digits: 6
+    density_constant: 30000
+    number_vehicles_fleet: vehicle_count
+    expense_constant: 0.35
+    adverse_filing_count: 0
+    sigma_squared_constant: 0.5
+    upper_sigma_square_root_coefficient: 2
+    lower_sigma_square_root_coefficient: -2
+    light_weight_class: Light
+    medium_weight_class: Medium
+    light_weight_class: Heavy
+    light_weight_class: Extra Heavy
+    intercept: Intercept
+    exposure: Exposure
+    count_deviation_0: "Count Deviation 0"
+    count_deviation_4: "Count Deviation 4"
+    fpct: FPCT
+    legal_count: "Legal Count"
+    sex_ratio: "Sex Ratio"
+    density: Density
+    model_types:
+      - frequency
+      - parameters
+    frequency_model_type: frequency
+    parameter_model_type: parameters
+    parameters_custom_rule_features:
+      - cnt_deviation_0
+      - cnt_deviation_4
+      - log_impute_exposure
+      - log_fpct
+      - log_legal_cnt_sum
+      - log_medage
+    frequency_custom_rule_features:
+      - log_impute_exposure
+      - log_fpct
+      - log_legal_cnt_sum
+      - log_density
+    valid_weight_classes:
+      - Light
+      - Medium
+      - Heavy
+      - Extra Heavy
+    ilf_weight_class_map:
+      Light: light_medium_ilf
+      Medium: light_medium_ilf
+      Heavy: heavy_ilf
+      Extra Heavy: extra_heavy_ilf
+    percentage_weight_class_map:
+      Light: percentage_vehicles_light
+      Medium: percentage_vehicles_medium
+      Heavy: percentage_vehicles_heavy
+      Extra Heavy: percentage_vehicles_extra_heavy
